@@ -1,0 +1,64 @@
+{
+  "category": "headless-cms",
+  "created_date": "2025-09-15T22:48:59.181971",
+  "default_ports": [
+    80,
+    443,
+    1337
+  ],
+  "dependencies": [
+    "nodejs",
+    "npm"
+  ],
+  "description": "strapi is a free and open-source headless CMS. Strapi provides open source headless CMS to manage content",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/headless-cms/strapi",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/headless-cms/strapi",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.181985",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "strapi",
+  "repository_url": "https://github.com/howtomgr/strapi",
+  "spec_version": "2.0",
+  "subcategory": "headless-cms",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "headless-cms",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "strapi Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/headless-cms/strapi"
+}
